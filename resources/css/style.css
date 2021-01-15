@@ -28,7 +28,16 @@ a{
 	color: aquamarine;
 	font-size: 16px;
 	display: block;
+	margin: 21px 0;
 }
 footer h3{
 	text-align: right;
+	margin-right: 8px;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
+.icon{
+	margin-top: 21px;
 }
